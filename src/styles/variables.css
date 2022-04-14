@@ -1,0 +1,18 @@
+* {
+    --darkBg: linear-gradient(to bottom, #575757, #333333);
+    --textOnDark: #F2F2F2;
+    --inputGradient: linear-gradient(to right, #DEDDDD, #5B511A);
+    --input: #5B511A;
+    --output: #2A5466;
+    --outputGradient: linear-gradient(to right, #DEDDDD, #2A5466);
+    --tankWhite: #E0E0E0;
+    --tankWindow: linear-gradient(to bottom, #DADADA, #1D868C);
+    --linearBorder: linear-gradient(105deg, #808080, #FFFBFB);
+    --text: #2D2D2D;
+    --yellow: #FFE600;
+    --toxicBlue: #5AF3EA;
+    --toxicGreen: #9DF35A;
+    --toxicYellow: #DCD76B;
+    --toxicOrange: #ff986c;
+    --toxicRed: #ff7b7b;
+} 
